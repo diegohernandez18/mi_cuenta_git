@@ -1,0 +1,7 @@
+﻿  CYP01.cpp
+C:\Users\wendy\source\repos\CYP01\CYP01\CYP01.cpp(4,1): warning C4326: el tipo de valor devuelto de 'main' debe ser 'int' en lugar de 'void'
+C:\Users\wendy\source\repos\CYP01\CYP01\CYP01.cpp(15,33): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\wendy\source\repos\CYP01\CYP01\CYP01.cpp(16,34): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\wendy\source\repos\CYP01\CYP01\CYP01.cpp(17,45): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+C:\Users\wendy\source\repos\CYP01\CYP01\CYP01.cpp(18,45): warning C4244: '=': conversión de 'float' a 'int'; posible pérdida de datos
+  CYP01.vcxproj -> C:\Users\wendy\source\repos\CYP01\x64\Debug\CYP01.exe

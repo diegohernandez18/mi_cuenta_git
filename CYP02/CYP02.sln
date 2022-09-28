@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.3.32825.248
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "CYP02", "CYP02\CYP02.vcxproj", "{17988AA0-901E-465C-8B4B-6BDD61AD0439}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x64 = Debug|x64
+		Debug|x86 = Debug|x86
+		Release|x64 = Release|x64
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{17988AA0-901E-465C-8B4B-6BDD61AD0439}.Debug|x64.ActiveCfg = Debug|x64
+		{17988AA0-901E-465C-8B4B-6BDD61AD0439}.Debug|x64.Build.0 = Debug|x64
+		{17988AA0-901E-465C-8B4B-6BDD61AD0439}.Debug|x86.ActiveCfg = Debug|Win32
+		{17988AA0-901E-465C-8B4B-6BDD61AD0439}.Debug|x86.Build.0 = Debug|Win32
+		{17988AA0-901E-465C-8B4B-6BDD61AD0439}.Release|x64.ActiveCfg = Release|x64
+		{17988AA0-901E-465C-8B4B-6BDD61AD0439}.Release|x64.Build.0 = Release|x64
+		{17988AA0-901E-465C-8B4B-6BDD61AD0439}.Release|x86.ActiveCfg = Release|Win32
+		{17988AA0-901E-465C-8B4B-6BDD61AD0439}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {EE6EAA3F-4253-4276-B439-64439D42460A}
+	EndGlobalSection
+EndGlobal
